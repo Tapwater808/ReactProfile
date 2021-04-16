@@ -1,6 +1,6 @@
 import Header from "./components/Header/Header"
 import Bio from "./components/Bio/Bio"
-import Projects from "./components/Projects/Projects"
+import Projects from "./components/Project/Project"
 import Contact from "./components/Contact/Contact"
 
 import './App.css';

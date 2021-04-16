@@ -4,7 +4,7 @@ function Bio() {
     return(
         <>
         <main id="about">
-            <h1>Ky Taylor</h1>
+            <h1>Mason miyamoto</h1>
             <div class="square"></div>
 
             <div>
